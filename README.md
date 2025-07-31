@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu estou atualmente estudando Ciências da Computação no 3 semestre, na Universidade Federal Técnologica do Paraná, meu atual foco nos estudos está sendo na área de Machine Learning e Ciência de Dados. 
+Eu estou atualmente estudando Ciências da Computação no 4 semestre, na Universidade Federal Técnologica do Paraná, meu atual foco nos estudos está sendo na área de Machine Learning e Ciência de Dados. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucascheffer_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucas-scheffer-344a36325) 
